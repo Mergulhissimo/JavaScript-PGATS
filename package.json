@@ -1,0 +1,17 @@
+{
+  "name": "entrega-pgats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000 test/**/*.test.js"
+  },
+  "author": "Henrique Mergulhão",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.20.0"
+  }
+}
